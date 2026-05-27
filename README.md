@@ -8,6 +8,7 @@
 
 - Responsive “Why Whistle?” card section
 - Interactive faq section
+- Resuts You"ll love section
 - Dynamic rendering using local JSON
 - Loading and error states
 - Reusable React components

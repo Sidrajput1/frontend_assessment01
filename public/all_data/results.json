@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "beforeImage": "https://i.pinimg.com/736x/79/91/2c/79912c799ded0ed3dbf750235a406a55.jpg",
+    "afterImage": "https://i.pinimg.com/1200x/8e/74/97/8e7497e56f4d025b4ef0a762addc500e.jpg",
+    "name": "Shivam",
+    "treatment": "Teeth Alignment",
+    "duration": "6 Months"
+  },
+  {
+    "id": 2,
+    "beforeImage": "https://i.pinimg.com/1200x/4b/df/fa/4bdffae2480c4c740b2b4968f6c83f17.jpg",
+    "afterImage": "https://i.pinimg.com/736x/ad/a1/df/ada1dff35e0b60c4bdc6b6ea10fb2053.jpg",
+    "name": "Priya",
+    "treatment": "Smile Correction",
+    "duration": "8 Months"
+  },
+  {
+    "id": 3,
+    "beforeImage": "https://i.pinimg.com/1200x/0d/7d/31/0d7d31c35f49d17c860ff38ad8fc2296.jpg",
+    "afterImage": "https://i.pinimg.com/1200x/80/f1/29/80f129314afba3d1c012f6912b18f71d.jpg",
+    "name": "Aman",
+    "treatment": "Crowding Fix",
+    "duration": "5 Months"
+  },
+  {
+    "id": 4,
+    "beforeImage": "https://i.pinimg.com/webp85/1200x/d0/a8/c0/d0a8c078c6929a59a0ed2abb93b84cad.webp",
+    "afterImage": "https://i.pinimg.com/webp85/1200x/29/8f/dc/298fdc7898a344a861c4b831f4b4bcc6.webp",
+    "name": "Ritika",
+    "treatment": "Gap Closure",
+    "duration": "7 Months"
+  }
+]

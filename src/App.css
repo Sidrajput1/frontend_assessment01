@@ -3,3 +3,14 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-family: Inter,Arial, sans-serif;
+  background-color: #fff;
+  color: #111827
+}
+
+html{
+  scroll-behavior: smooth;
+
+}
