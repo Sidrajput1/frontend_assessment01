@@ -7,6 +7,7 @@
 ## Features Implemented
 
 - Responsive “Why Whistle?” card section
+- Interactive faq section
 - Dynamic rendering using local JSON
 - Loading and error states
 - Reusable React components
