@@ -36,3 +36,8 @@ npm run dev
 ## Approach
 
 I focused on recreating selected sections from the Figma design as closely as possible while keeping the code modular and reusable. Local JSON files were used to simulate API-driven content, and React hooks were used for state management and interaction handling.
+
+## Live Demo
+
+Netlify Deployment:
+https://playful-biscochitos-ef87b2.netlify.app/
