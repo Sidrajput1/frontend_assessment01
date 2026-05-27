@@ -12,11 +12,11 @@ function FaqItem({items,isOpen,onToggle}) {
             </span>
         </button>
 
-        {isOpen && (
-            <div className='faq-answer'>
-                <p>{items.answer}</p>
-            </div>
-        )}
+        <div className={`faq-answer-wrapper ${isOpen ? "active" : ""}`}>
+  <div className="faq-answer">
+    <p>{items.answer}</p>
+  </div>
+</div>
     </div>
   )
 }

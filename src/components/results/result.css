@@ -1,6 +1,13 @@
 .results-section{
-    padding: 80px 40px;
+    padding: 80px 20px;
     background-color: #f4f7fa;
+}
+
+.results-title,
+.results-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .results-title{
@@ -97,5 +104,10 @@
 
   .results-title {
     font-size: 30px;
+  }
+
+  .image-box img{
+    height: 160px;
+    width: 100%;
   }
 }

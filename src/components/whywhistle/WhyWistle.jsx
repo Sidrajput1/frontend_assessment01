@@ -34,7 +34,19 @@ function WhyWistle() {
   }, []);
 
   if (loading) {
-    return <p className="status-message">Loading.....</p>;
+    return (
+      <section className="why-whistle">
+        <h2 className="section-title">Why Whistle?</h2>
+
+        <div className="whistle-container">
+            {[1,2,3,4].map((item) => (
+              <div className="skeleton-card" key={item}>
+
+              </div>
+            ))}
+        </div>
+      </section>
+    )
   }
 
   if (error) {

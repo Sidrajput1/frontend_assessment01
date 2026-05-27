@@ -3,6 +3,13 @@
   background-color: #ffffff;
 }
 
+.faq-title,
+.faq-container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .faq-title {
   text-align: center;
   font-size: 42px;
@@ -49,6 +56,16 @@
 
 .faq-icon.open {
   transform: rotate(45deg);
+}
+
+.faq-answer-wrapper {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.faq-answer-wrapper.active {
+  max-height: 200px;
 }
 
 .faq-answer {

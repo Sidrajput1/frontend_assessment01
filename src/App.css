@@ -4,13 +4,25 @@
   box-sizing: border-box;
 }
 
-body{
-  font-family: Inter,Arial, sans-serif;
+body {
+  font-family: Inter, Arial, sans-serif;
   background-color: #fff;
-  color: #111827
+  color: #111827;
 }
 
-html{
+html {
   scroll-behavior: smooth;
+}
 
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  font-family: inherit;
+}
+
+section {
+  width: 100%;
 }
